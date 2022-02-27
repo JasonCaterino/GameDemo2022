@@ -1,0 +1,250 @@
+fileFormatVersion: 2
+guid: 85d3738e00a533f49a7b4d2a7515f02b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2009415141251713239
+    second: foxGirlWalking_0
+  - first:
+      213: -5485371047004442631
+    second: foxGirlWalking_1
+  - first:
+      213: -2846699459307357156
+    second: foxGirlWalking_2
+  - first:
+      213: -4242502142905582724
+    second: foxGirlWalking_3
+  - first:
+      213: 5961282244718883104
+    second: foxGirlWalking_4
+  - first:
+      213: 1780369199243482526
+    second: foxGirlWalking_5
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: foxGirlWalking_0
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 6618
+        width: 1834
+        height: 1929
+      alignment: 9
+      pivot: {x: 0.25845146, y: 0.48833594}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d88994bc60e2eb10800000000000000
+      internalID: 2009415141251713239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foxGirlWalking_1
+      rect:
+        serializedVersion: 2
+        x: 4378
+        y: 6588
+        width: 1899
+        height: 2089
+      alignment: 9
+      pivot: {x: 0.24960506, y: 0.45093346}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff6612781c00e3b0800000000000000
+      internalID: -5485371047004442631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foxGirlWalking_2
+      rect:
+        serializedVersion: 2
+        x: 7353
+        y: 6653
+        width: 1964
+        height: 1894
+      alignment: 9
+      pivot: {x: 0.2413442, y: 0.49736008}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c30b99ced7e78d0800000000000000
+      internalID: -2846699459307357156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foxGirlWalking_3
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 1498
+        width: 1834
+        height: 1929
+      alignment: 9
+      pivot: {x: 0.25845146, y: 0.48833594}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b774d57ca9f15c0800000000000000
+      internalID: -4242502142905582724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foxGirlWalking_4
+      rect:
+        serializedVersion: 2
+        x: 4378
+        y: 1468
+        width: 1769
+        height: 2024
+      alignment: 9
+      pivot: {x: 0.267948, y: 0.46541503}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021ff4a0e9abab250800000000000000
+      internalID: 5961282244718883104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foxGirlWalking_5
+      rect:
+        serializedVersion: 2
+        x: 7353
+        y: 1593
+        width: 2059
+        height: 1899
+      alignment: 9
+      pivot: {x: 0.23020884, y: 0.49605057}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9554f99a5425b810800000000000000
+      internalID: 1780369199243482526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 2e664929081021642afe1817ea5bd068
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
